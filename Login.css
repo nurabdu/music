@@ -1,0 +1,47 @@
+.form{
+    width: 500px;
+    height: 400px;
+    background: #24120180;
+    border-radius: 2rem;
+    margin: 150px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.send{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+}
+
+form{
+    margin: 0 auto;
+    width: min-content;
+    height: min-content;
+    display: flex;
+    align-items: stretch;
+    align-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+}
+input{
+    margin: 10px;
+    border-radius: 6px
+}
+label{
+    width: min-content;
+    color: wheat;
+    font-family: revert;
+    text-align: start;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+span{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
